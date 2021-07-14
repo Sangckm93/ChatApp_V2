@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041971653244",
+    "project_id": "sangnaruchat-9a50d",
+    "storage_bucket": "sangnaruchat-9a50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041971653244:android:83c04b8408d34a2adf37f9",
+        "android_client_info": {
+          "package_name": "com.gmail.sangckm93.superchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041971653244-eautk9ceknqvhh4bua9u68c83sbo3f35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0P4D8_OUvme1FBJCvLXBGYsnerhyKyXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041971653244-eautk9ceknqvhh4bua9u68c83sbo3f35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
